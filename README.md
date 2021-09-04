@@ -1,5 +1,5 @@
 # track-server
- Track Server for handling POST & GET methods for The 2nd and 3rd Module of my FYP
+ Node module for handling POST & GET requests for The 2nd and 3rd Module of my FYP
  
 ## Module List
  - [1st Module](https://github.com/AbdulHadi404/FaceRecognition-And-MaskDetection)
